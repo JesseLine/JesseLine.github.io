@@ -1,5 +1,6 @@
-## Hi there 👋
+## Portfolio of Jesse Line
 
+This is the portfolio of some of the projects I've worked on as well as my current resume. 
 <!--
 **JesseLine/JesseLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
